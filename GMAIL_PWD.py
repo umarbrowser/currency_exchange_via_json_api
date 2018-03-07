@@ -1,1 +1,1 @@
-GMAIL_PWD = 'yourPass'
+GMAIL_PWD = 'none'

@@ -3,13 +3,17 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime
 from GMAIL_PWD import GMAIL_PWD
-from request_customizable import string_for_each_currency
+
+str_ing = open('mailText.txt', 'r').read()
+
+# with open('mailText.txt', 'r') as myfile:
+#     data = myfile.read()
 
 
 subject = 'Daily Exchange {}'.format(datetime.now().strftime("%Y-%m-%d %H:%M"))
 fromMessage = 'marius.tao@gmail.com'
 toMessage = 'marius.a.nicolae@outlook.com'
-text = string_for_each_currency
+text = str_ing
 
 BODY = '\r\n'.join(['To: %s' % toMessage,
                     'From: %s' % fromMessage,
