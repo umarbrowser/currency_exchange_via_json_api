@@ -17,7 +17,7 @@ for base in bases:
     text_file.write("\n--------------- Rates in " + base + "---------------\n")
     text_file.write(string_for_each_header_currency)
     for currency, rate in rates.items():
-        text_file.write(currency + " = " + base + str(rate))
+        text_file.write(currency + " = " + base + " " + str(rate) + ", ")
 
 
 

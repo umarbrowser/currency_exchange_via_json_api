@@ -1,1 +1,1 @@
-GMAIL_PWD = 'none'
+GMAIL_PWD = 'Ecmascript2pac'
