@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc65ddfd-0b88-40de-bbba-c2650a1c9e39" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/GMAIL_PWD.py" afterPath="$PROJECT_DIR$/GMAIL_PWD.py" />
-      <change beforePath="$PROJECT_DIR$/mailText.txt" afterPath="$PROJECT_DIR$/mailText.txt" />
-      <change beforePath="$PROJECT_DIR$/request_customizable.py" afterPath="$PROJECT_DIR$/request_customizable.py" />
+      <change beforePath="$PROJECT_DIR$/email_via_gmail.py" afterPath="$PROJECT_DIR$/email_via_gmail.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +16,9 @@
       <file leaf-file-name="email_via_gmail.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email_via_gmail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="26">
+              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,8 +104,8 @@
         <option value="$PROJECT_DIR$/request.py" />
         <option value="$PROJECT_DIR$/requests_all_rates.py" />
         <option value="$PROJECT_DIR$/GMAIL_PWD.py" />
-        <option value="$PROJECT_DIR$/email_via_gmail.py" />
         <option value="$PROJECT_DIR$/request_customizable.py" />
+        <option value="$PROJECT_DIR$/email_via_gmail.py" />
       </list>
     </option>
   </component>
@@ -310,9 +305,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -366,9 +359,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -466,11 +457,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/email_via_gmail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="26">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
