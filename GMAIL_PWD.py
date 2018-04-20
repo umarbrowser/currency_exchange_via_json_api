@@ -1,1 +1,1 @@
-GMAIL_PWD = 'Ecmascript2pac'
+GMAIL_PWD = '*********'
