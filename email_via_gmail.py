@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
 import smtplib
 from datetime import datetime
 from GMAIL_PWD import GMAIL_PWD
